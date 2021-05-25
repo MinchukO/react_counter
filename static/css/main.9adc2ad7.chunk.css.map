@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,SACE,WAAY,CACZ,aAAc,CACd,YAAa,CACb,wBAA2B,CAE5B,KAEC,iBAAkB","file":"main.9adc2ad7.chunk.css","sourcesContent":["// styles go here\n.wrapper {\n  width: 700px;\n  margin: 0 auto;\n  padding: 30px;\n  background-color: aliceblue;\n\n}\n.btn {\n  margin-right: 20px;\n}"]}
